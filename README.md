@@ -37,5 +37,5 @@ This dashboard transforms raw data into actionable insights, enabling stakeholde
 
 ## Project Files
 - `Performance_Dashboard.pbix` - Main Power BI file
-- `dataset/` - Contains sample data files
-- `documentation/` - Additional technical notes
+- Plant_DTS.xls - Contains sample data files
+- Dashboard_Screenshot - Additional technical notes
