@@ -1,5 +1,7 @@
 # 📊 Power BI Performance Dashboard: End-to-End Data Analytics Project
 
+[![Dashboard Screenshot](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Dashboard%20Screenshot)](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Performance%20Report.pbix)
+
 ## 🔧 Data Preparation & Modeling
 - **Power Query Transformation**: Cleaned raw data (handled missing values, standardized formats, optimized datatypes)
 - **Time Intelligence**: Created a virtual `dim_date` table to enable dynamic period comparisons (YTD, PYTD)
@@ -29,13 +31,25 @@
 - Power BI (Data modeling, DAX, visuals)
 - Power Query (Data cleaning)
 
+## 📂 Project Files
+| File | Description | Link |
+|------|-------------|------|
+| `Performance Report.pbix` | Main Power BI dashboard | [Download](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Performance%20Report.pbix) |
+| `Plant_DTS.xls` | Raw dataset | [Download](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Plant_DTS.xls) |
+| `Dashboard Screenshot` | Dashboard preview | [View](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Dashboard%20Screenshot) |
+
+## 🚀 How to Use
+1. **Download** the [Power BI file](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Performance%20Report.pbix)
+2. **Connect** to the [dataset](https://github.com/louay133/Performance-Analysis-Dashboard/blob/main/Plant_DTS.xls) if needed
+3. **Refresh** data to see latest metrics
+4. **Interact** with filters and slicers to explore insights
+
 ## Why It Matters
 This dashboard transforms raw data into actionable insights, enabling stakeholders to:
 ✔ Track sales/profitability trends in real-time  
 ✔ Compare YTD vs. PYTD performance at a glance  
 ✔ Drill into granular metrics with interactive visuals  
 
-## Project Files
-- `Performance_Dashboard.pbix` - Main Power BI file
-- Plant_DTS.xls - Contains sample data files
-- Dashboard_Screenshot - Additional technical notes
+---
+
+> **Note**: Requires Power BI Desktop to view the interactive dashboard. [Download Power BI](https://powerbi.microsoft.com/en-us/desktop/)
